@@ -7,7 +7,7 @@ Nyika Developers, a customer-centric real estate agency, has recognized the impo
 Nyika Developers aims to provide accurate and data-driven advice to homeowners regarding the impact of renovations on property value. Through comprehensive analysis of house sales data using multiple linear regression modeling, they seek to identify key features influencing sale prices and assess the impact of location. This knowledge will guide their construction plans, pricing strategies, and investments to maximize profitability in King County's real estate market.
 
 ## Data Understanding
-For this project, we are utilizing  datasets to analyze house sales in a northwestern county and provide insights on home renovations. These datasets contain information about individual homes within King County, including features like price, square footage, address, and other relevant details.
+For this project, we are utilizing  datasets to analyze house sales and provide insights on home renovations. These datasets contain information about individual homes within King County, including features like price, square footage, address, and other relevant details.
 
 ## Success Metrics
 We will use R-squared and MAE to meet 2 objectives:
