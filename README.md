@@ -14,7 +14,7 @@ We will use R-squared and MAE to meet 2 objectives:
 - R-squared helps asses model improvements in prediction variation in house prices.
 - Mean Absolute Error helps us to measure the distance of the predicted prices from the actual prices.
 
-## Conclusion
+## Conclusions
 1. Significant predictors of house prices include variables such as bedrooms, bathrooms, square footage, floors, and the condition of the house.
 2. Quarter of sales also has a small but noticeable effect on house prices.
 3. The developed regression models explain approximately 60.8% of the variance in house prices.
