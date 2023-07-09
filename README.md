@@ -1,5 +1,5 @@
 # Analyzing House Sales in King County: A Multiple Linear Regression Approach
-
+![image](https://github.com/wambuapk/analyzing-house-sales-in-king-county/assets/109678429/6d83b541-911b-4328-875a-5238033a93e8)
 ## Overview
 Nyika Developers, a customer-centric real estate agency, has recognized the importance of providing accurate and data-driven insights on property values to empower homeowners. To meet this need, they have commissioned a project to analyze house sales in King County using multiple linear regression modeling. This approach enables a thorough examination of factors that influence sale prices, allowing Nyika Developers to offer informed guidance to homeowners. By identifying the relationships between these factors and sale prices, homeowners can make informed decisions to maximize their homes' value and explore long-term investment opportunities.
 
@@ -28,3 +28,5 @@ We will use R-squared and MAE to meet 2 objectives:
 5. Engage in continued research, refinement, and updating of models to stay current with market dynamics.
 
 Implementing these recommendations will enable Nyika Developers to accurately price properties, effectively market them, and provide valuable insights to clients, maximizing property value and facilitating successful transactions.
+
+View nontechnical presentation here: https://drive.google.com/file/d/1r3jybjgAVE6HcuJi2yBAgEBhiSFZwyL7/view?usp=sharing
